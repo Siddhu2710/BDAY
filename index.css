@@ -6,7 +6,7 @@ body {
     place-items: center; /* Centers both horizontally and vertically */
     height: 100vh;
     margin: 0;
-    background-image: url(/login-bg.png);
+    background-image: url(login-bg.png);
     background-position: center;
     background-size: cover;
 }
